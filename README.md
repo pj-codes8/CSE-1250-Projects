@@ -1,4 +1,4 @@
-# CSE1250-Projects
+# CSE-1250-Projects
 
 All projects created during my computer science course CSE 1250: Programming Basics 
 
